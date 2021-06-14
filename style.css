@@ -1,0 +1,85 @@
+body{
+    background-color: rgb(120, 120, 253);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main{
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 50px;
+    width: 450px;
+    padding: 50px;
+    margin: 50px auto;
+    box-shadow: 5px 5px 15px black;
+}
+
+#conversa > img{
+    width: 350px;
+    margin: 0px 70px 0px 70px;
+}
+
+#conversa > p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    width: 300px;
+    margin-left: 90px;
+    margin-top: -210px;
+    margin-bottom: 120px;
+}
+
+#jogo > img{
+    margin-left: 150px;
+}
+
+#jogo > input{
+    padding: 5px;
+    margin-left: 120px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+input:focus{
+    outline-color: rgb(87, 87, 250);
+}
+
+#jogo > button{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+    margin-left: 150px;
+    padding: 15px;
+    border: none;
+    background-color: rgb(120, 120, 253);
+    color: white;
+    border-radius: 20px;
+}
+
+#jogo > button:hover{
+    cursor: pointer;
+    transition: 0.5s;
+    background-color: rgb(74, 74, 255);
+}
+
+footer{
+    text-align: center;
+    color: white;
+}
+
+a{
+    text-decoration: none;    
+    color: rgb(0, 0, 0);
+}
+
+a:hover{
+    transition: 0.5s;
+    color: rgb(61, 61, 61);
+}
+
+#res{
+    margin-top: 50px;
+    text-align: center;
+}

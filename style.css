@@ -82,4 +82,6 @@ a:hover{
 #res{
     margin-top: 50px;
     text-align: center;
+    font-size: 2em;
+    font-weight: bold;
 }

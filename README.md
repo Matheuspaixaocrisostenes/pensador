@@ -1,5 +1,5 @@
-# pensador :video_game:
-Criando um Jogo de Adivinhação 
+# Pensador :video_game:
+- Criando um Jogo de Adivinhação 
 -----------------------------------------------------------
 ## Tecnologias ultilizadas :book:
 - HTML 5
